@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "qUriww9xBfE=",
+  "success": true,
+  "projectFilePath": "D:\\source\\backstage-hr\\backstage-hr.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Christine\\.nuget\\packages\\sharpyaml\\2.1.1\\sharpyaml.2.1.1.nupkg.sha512",
+    "C:\\Users\\Christine\\.nuget\\packages\\yamldotnet\\16.0.0\\yamldotnet.16.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
