@@ -45,7 +45,6 @@ public class BackstageReader
                     foreach (var entry in entityProperties)
                     {
                         var key = (YamlScalarNode)entry.Key;
-                        var test3 = userEntity.Children[new YamlScalarNode(key.Value)];
 
                         if (key.Value.Equals("metadata"))
                         {
